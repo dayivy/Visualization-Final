@@ -12,7 +12,7 @@ And for corruption, I acquired the data from Transparency.org:  <https://www.tra
 
 ## Jupyter Notebook 
 
-The jupyter notebook in this repository will cover exploratory data analysis (EDA) as well as the visualizations I created
+The jupyter notebook in this repository will cover exploratory data analysis (EDA) as well as the visualizations I created.  A link to the working notebook with altair visualizations can be found here: <https://hub.ovh2.mybinder.org/user/dayivy-visualization-final-zxa220n7/lab/tree/Data%20Visualization%20Final%20Project.ipynb>
 
 ## Summary and Discussion
 
