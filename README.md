@@ -12,8 +12,8 @@ And for corruption, I acquired the data from Transparency.org:  <https://www.tra
 
 ## Jupyter Notebook 
 
-The jupyter notebook in this repository will cover exploratory data analysis (EDA) as well as the visualizations I created.  A link to the working notebook with altair visualizations can be found here: <https://hub.ovh2.mybinder.org/user/dayivy-visualization-final-zxa220n7/lab/tree/Data%20Visualization%20Final%20Project.ipynb>
+The jupyter notebook in this repository will cover exploratory data analysis (EDA) as well as the visualizations I created.  A link to the working notebook with altair visualizations can be found here: <https://mybinder.org/v2/gh/dayivy/Visualization-Final/HEAD>
 
 ## Summary and Discussion
 
-A summary and discussion will be included in the repository to answer the required questions from the course.
+A summary and discussion is included on the jupyter notebook to answer the required questions from the course.
